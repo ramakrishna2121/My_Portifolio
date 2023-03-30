@@ -1,0 +1,68 @@
+.main-topic {
+    text-align: left;
+    color: purple;
+    background-color: #CBC3E3;
+    border: 1px solid purple;
+    /* border-spacing: 1em 50em; */
+    padding: 25px;
+    
+    
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height:30%;
+    width: 20%;
+    float:right;
+  }
+h2{
+    color: purple
+}
+body{
+    background-color: lavender;
+    padding: 25px;
+}
+.setup{
+    background-color: white;
+    padding: 25px;
+    border: 1px solid purple;
+    margin-top: -25px;
+    height: 1700px;
+    
+    
+}
+.heading{
+    color: purple;
+}
+.topics{
+    
+    width: 100px;
+    float: left;
+    height: 100px;
+    margin: 10px;
+}
+
+.introduction{
+    
+    width: 800px;
+    float: left;
+    height: 100px;
+    margin-left: 150px;
+    
+}
+.myimage{
+    float: top;
+}
+.welcome{
+    font-size: 20px;
+    color: rgb(142, 74, 142);
+
+}
+.details{
+    color: black;
+}
+    
+    
+
+
